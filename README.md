@@ -1,16 +1,19 @@
 # reproducibility-challenge
 
-## Intro
+## Introduction
 - when is the event
 - learn what you can improve
 - the goal is to stimulate... reproducibility is a spectrum... submissions are stimulated for any kind of project
+
+
 
 ### Context
 - link to the Rbanism website
 - registration information for the final event; participation without challenge submission possible
 
 ### Basic rules
-- submissions can be made individually or in teams
+
+- Submissions can be done individually or in teams
 - submission deadline 14 November
 - submissions are possible for projects whose workflow can be (or should be possible to be) digitally reproduced
 
