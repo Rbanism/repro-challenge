@@ -1,4 +1,19 @@
-The following checklist is not a list of requirements, i.e., you can even submit if none of the boxes are checked, but will be used to assess the level of reproducibility of your project.
+The following checklist can be used to assess the level of reproducibility of your project.
+
+## Organization
+- [ ] Are all data, code, results, and documentation housed within a monophyletic folder structure?
+- [ ] Is your project folder structured to separate your data, code, documentation, and results?
+- [ ] Can the project be run from the project's root folder?
+- [ ] Is the project under version control?
+- [ ] Do files use a consistent naming scheme that indicates what they contain?
+
+## Workflow and automation
+- [ ] Is the workflow clearly documented (with or without code)?
+- [ ] Is your workflow scripted, i.e., using code? 
+- [ ] Is your code well documented?
+- [ ] Is your code modular, i.e., does it use functions?
+- [ ] Are unit tests available for the code?
+- [ ] Does your repository make use of continuous integration tools to insure internal reproduciblity?
 
 ## Documentation
 - [ ] Is there a README file that indicates
@@ -10,6 +25,10 @@ The following checklist is not a list of requirements, i.e., you can even submit
 - [ ] Is there a CITATION file that tells users how to site the project, data, and code?
 - [ ] Does the project have a LICENSE file?
 - [ ] Is the project's repository publicly available?
+
+## Publication
+- [ ] Are papers and reports from the project generated using literate programming tools so that results are not hard-coded?
+- [ ] Does the project have a persistent identifier?
 
 ## Data
 - [ ] Is the data included or linked, with instructions on how to obtain the data?
@@ -27,23 +46,5 @@ The following checklist is not a list of requirements, i.e., you can even submit
 - [ ] Are version number of every external application used in the process?
 - [ ] Does your project use only open software?
 
-## Workflow and automation
-- [ ] Is the workflow clearly documented (with or without code)?
-- [ ] Is your workflow scripted, i.e., using code? 
-- [ ] Is your code well documented?
-- [ ] Is your code modular, i.e., does it use functions?
-- [ ] Are unit tests available for the code?
-- [ ] Does your repository make use of continuous integration tools to insure internal reproduciblity?
-
-## Organization
-- [ ] Are all data, code, results, and documentation housed within a monophyletic folder structure?
-- [ ] Is your project folder structured to separate your data, code, documentation, and results?
-- [ ] Can the project be run from the project's root folder?
-- [ ] Is the project under version control?
-- [ ] Do files use a consistent naming scheme that indicates what they contain?
-
-## Publication
-- [ ] Are papers and reports from the project generated using literate programming tools so that results are not hard-coded?
-- [ ] Does the project have a persistent identifier?
-
-This list was inspired by [Checklist Questions to stimulate thought about a Project's Reproducibility](https://github.com/datacarpentry/rr-intro/blob/gh-pages/checklist.md), which we recommend you consider while preparing your submission.
+This list was inspired by the more extensive [Checklist Questions to stimulate thought about a Project's Reproducibility](https://github.com/datacarpentry/rr-intro/blob/gh-pages/checklist.md) 
+which we recommend you consider for making your work reproducible.
