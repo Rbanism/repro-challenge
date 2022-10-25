@@ -18,10 +18,11 @@ The submission consists of the following steps:
 5. Add another comment letting @cforgaci know that the submission is ready for assessment.
 
 ## Project information
-Project title:
-Author(s): 
-Type of work: [e.g., PhD thesis chapter, conference paper, research project report]
-Status: work in progress / finished but not published / published
+- Project title:
+- Author(s): 
+- Type of work: [e.g., PhD thesis chapter, conference paper, research project report]
+- Status: work in progress / finished but not published / published
+- Link to the GitHub repository of the project:
 
 ## (Self-)Assessment Checklist
 The following checklist is used for the assessment of the level of reproducibility of your project. Note that the checklist serves as a tool to help you think about the reproducibility of the data analysis. Although many of the questions can be thought of as having a yes/no answer, we encourage you to see the questions as being open ended with the real question being, "What can one do to improve the status of their project on this bullet point?" With that in mind, one will never get 100% of the bullets right for their project, but they will always be improving.
