@@ -9,11 +9,22 @@ assignees: ''
 
 # Rbanism Reproducibility Challenge submission 
 
-The following checklist is used for the assessment of the level of reproducibility of your project. Please fill in the checklist and provide a statement about the level of reproducibility of the submitted project. Both 
+The submission consists of the following steps:
 
-## 1. (Self-)Assessment Checklist
+1. Fill in the project information in the form below;
+2. Submit this issue without deleting the text below;
+3. Fill in the (self-)assessment checklist generated in the first comment;
+4. Submit a separate comment in the same issue with a statement on the level of reproducibility of your project, elaborating especially on the challenges you encountered -- word limit: 300 words;
+5. Add another comment letting @cforgaci know that the submission is ready for assessment.
 
-Note that the checklist serves as a tool to help you think about the reproducibility of the data analysis. Although many of the questions can be thought of as having a yes/no answer, we encourage you to see the questions as being open ended with the real question being, "What can one do to improve the status of their project on this bullet point?" With that in mind, one will never get 100% of the bullets right for their project, but they will always be improving.
+## Project information
+Project title:
+Author(s): 
+Type of work: [e.g., PhD thesis chapter, conference paper, research project report]
+Status: work in progress / finished but not published / published
+
+## (Self-)Assessment Checklist
+The following checklist is used for the assessment of the level of reproducibility of your project. Note that the checklist serves as a tool to help you think about the reproducibility of the data analysis. Although many of the questions can be thought of as having a yes/no answer, we encourage you to see the questions as being open ended with the real question being, "What can one do to improve the status of their project on this bullet point?" With that in mind, one will never get 100% of the bullets right for their project, but they will always be improving.
 
 ### Organization
 - [ ] Are all data, code, results, and documentation housed within a monophyletic folder structure?
@@ -61,7 +72,4 @@ Note that the checklist serves as a tool to help you think about the reproducibi
 - [ ] Are version number of every external application used in the process?
 - [ ] Does the project use only open software?
 
-This list was inspired by the more extensive [Checklist Questions to stimulate thought about a Project's Reproducibility](https://github.com/datacarpentry/rr-intro/blob/gh-pages/checklist.md) 
-which we recommend you consider for making your work reproducible.
-
-## 2. Statement about the level of reproducibility
+This list was inspired by the more extensive [Checklist Questions to stimulate thought about a Project's Reproducibility](https://github.com/datacarpentry/rr-intro/blob/gh-pages/checklist.md).
