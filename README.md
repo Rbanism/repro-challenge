@@ -45,7 +45,7 @@ A two-tiered assessment process will be used to evaluate and rank the submission
     - If your project is already in a GitHub repository, you do not have to create a new one. 
     - First time using GitHub? Follow the [instructions on how to make a GitHub repo](https://docs.github.com/en/get-started/quickstart/create-a-repo)
 
-2. Make an issue in the submission repository in which you link to your project and fill out the checklist in the issue template. [Start and issue with the submission template.]()
+2. Make an issue in the submission repository in which you link to your project and fill out the checklist in the issue template. [Start and issue with the submission template.](https://github.com/Rbanism/repro-challenge/issues/new/choose)
 
 3. If you want to keep your project private, invite @cforgaci as collaborator on your GitHub repo.
 
