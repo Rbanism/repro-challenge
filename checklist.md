@@ -1,7 +1,7 @@
-The following checklist can be used to assess the level of reproducibility of your project.
+The following checklist can be used to assess the level of reproducibility of your project. This checklist is included in the submission template.
 
 ## Organization
-- [ ] Are all data, code, results, and documentation housed within a monophyletic folder structure?
+- [ ] Are all data, code, results, and documentation housed within a monophyletic folder structure (i.e., within one root folder)?
 - [ ] Is your project folder structured to separate your data, code, documentation, and results?
 - [ ] Can the project be run from the project's root folder?
 - [ ] Is the project under version control?
