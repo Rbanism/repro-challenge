@@ -53,7 +53,9 @@ A two-tiered assessment process will be used to evaluate and rank the submission
 
 Please note that your issue will always be publicly visible as part of this repository. If your project repository is private, this will only be visible to invited collaborators.
 
+## Stay informed
 
+If you are considering to make a submission and want to stay informed about new reproducibility resources posted on the website or updates about the Challenge, please let us know by sending an email to Claudiu Forgaci - C.Forgaci@tudelft.nl.
 
 
 
