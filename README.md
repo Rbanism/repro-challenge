@@ -24,7 +24,7 @@ Submissions will be ranked based on the level of reproducibility and self-assess
 - Challenge closes: **Friday, 25 November**
 - Closing event and winners announced: **Friday, 2 December** (Registration information will follow later)
 
-### Basic rules
+### Rules
 - Submissions can be done individually or in teams. All members of the submission team have to be authors of the submitted material.
 - Both published and unpublished research projects are eligible. We especially encourage submissions of unpublished work (e.g., PhD chapters or conference papers that are work in progress) because the Challenge is intended as a process of learning and feedback leading to improvements in the submitted work.
 - Submissions are possible for projects with workflows that can be (or should be possible to be) digitally reproduced.
