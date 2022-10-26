@@ -20,7 +20,7 @@ Submissions will be ranked based on the level of reproducibility and self-assess
 - 3rd Prize: €100 + 6 mentoring hours
 
 ### Timeline
-- Announcement of the challenge: **Tuesday, 25 October**
+- Announcement of the challenge: **Tuesday, 26 October**
 - Challenge closes: **Friday, 25 November**
 - Closing event and winners announced: **Friday, 2 December** (Registration information will follow later)
 
