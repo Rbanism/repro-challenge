@@ -35,8 +35,8 @@ If you want to learn more about reproducibility while preparing your submission,
 ### Assessment
 A two-tiered assessment process will be used to evaluate and rank the submissions:
 
-1. a peer assessment in which participants evaluate two other submissions following a reproducibility checklist and evaluating the narrative self-assessment qualitatively;
-2. after the entries have been ranked based on peer assessment, the top 10 entries will be evaluated in depth by an expert assessment committee consisting of at least three members. The first three entries will be awarded in the wrap-up event with vouchers and mentoring hours.
+1. a peer assessment in which participants evaluate the self-assessment checklist and reproducibility statement of two other submissions;
+2. after the entries have been ranked based on peer and self-assessment, the top 10 entries will be evaluated in depth by an expert assessment committee consisting of at least three members. The first three entries will be awarded in the wrap-up event with vouchers and mentoring hours.
 
 ## How to submit
 
