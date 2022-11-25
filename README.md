@@ -15,9 +15,9 @@ The challenge is open internationally to anyone conducting research in an urbani
 ## Prizes
 Submissions will be ranked based on the level of reproducibility and self-assessement and the top three will be awarded with the following prizes. As we want to support further development in reproducibility practices, we allocate more mentoring hours for the 2nd and 3rd prize winners.
 
-- 1st Prize: €300 + 2 mentoring hours
-- 2nd Prize: €200 + 4 mentoring hours
-- 3rd Prize: €100 + 6 mentoring hours
+- 1st Prize: ~~€300~~ €500 + 2 mentoring hours
+- 2nd Prize: ~~€200~~ €300 + 4 mentoring hours
+- 3rd Prize: ~~€100~~ €200 + 6 mentoring hours
 
 ### Timeline
 - Announcement of the challenge: **Tuesday, 26 October 2022**
