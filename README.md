@@ -20,9 +20,9 @@ Submissions will be ranked based on the level of reproducibility and self-assess
 - 3rd Prize: €100 + 6 mentoring hours
 
 ### Timeline
-- Announcement of the challenge: **Tuesday, 26 October**
-- Challenge closes: **Friday, 25 November**
-- Closing event and winners announced: **Friday, 2 December** (Registration information will follow later)
+- Announcement of the challenge: **Tuesday, 26 October 2022**
+- Challenge closes: ~~**Friday, 25 November**~~ **Wednesday, 25 January 2023**
+- Closing event and winners announced: ~~**Friday, 2 December 2022**~~ TBD (Registration information will follow later)
 
 ### Rules
 - Submissions can be done individually or in teams. All members of the submission team have to be authors of the submitted material.
