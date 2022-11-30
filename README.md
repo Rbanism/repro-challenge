@@ -9,7 +9,7 @@ The Challenge is organised by TU Delft, Faculty of Architecture and the Built En
 
 Join the Challenge to learn more about reproducibility while working on your own project!
 
-## Eligibilty
+## Eligibility
 The challenge is open internationally to anyone conducting research in an urbanism-related field, such as (but not strictly limited to) urban design, spatial planning, urban studies, landscape architecture, architecture.
 
 ## Prizes
