@@ -1,6 +1,6 @@
-# The Reproducibility Challenge for Researchers of the Built Environment
+# The Reproducibility Challenge for Researchers of the Urban Environment
 
-**We invite individuals or teams to submit entries with their own reproducible urbanism-related research, together with a narrative self-assessment of the level of reproducibility and challenges involved.** 
+**We invite individuals or teams to submit entries with their own reproducible research related to the urban environment, together with a narrative self-assessment of the level of reproducibility and challenges involved.** 
 
 ## Introduction
 We know how challenging it can be for urbanism researchers to make their papers reproducible by publishing associated code and data. The Reproducibility Challenge for Urbanism Researchers is meant both as a learning experience and as an encouragement for urbanism researchers to make their ongoing work reproducible.
