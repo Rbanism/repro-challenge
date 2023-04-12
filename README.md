@@ -1,3 +1,7 @@
+*This repository was archived after the end of the challenge.*
+
+---
+
 # The Reproducibility Challenge for Researchers of the Urban Environment
 
 **We invite individuals or teams to submit entries with their own reproducible research related to the urban environment, together with a narrative self-assessment of the level of reproducibility and challenges involved.** 
